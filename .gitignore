@@ -1,0 +1,22 @@
+# Ignore Jupyter notebook checkpoint files
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+.env/
+
+# Ignore data files like CSV, JSON, and TXT
+*.csv
+*.json
+*.txt
+
+# Ignore IDE-related files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
